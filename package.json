@@ -2,7 +2,7 @@
   "name": "mytr7l",
   "version": "0.0.0",
   "description": "Afk bot for minecraft servers.",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
