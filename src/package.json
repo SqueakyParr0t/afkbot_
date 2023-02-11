@@ -2,7 +2,7 @@
   "name": "afk-bot",
   "version": "1.2",
   "description": "Afk bot for minecraft servers.",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
